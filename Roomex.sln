@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unitTest", "unitTest", "{42
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roomex.DistanceCalculator.API.UnitTest", "test\unitTest\Roomex.DistanceCalculator.API.UnitTest\Roomex.DistanceCalculator.API.UnitTest.csproj", "{33E9F94B-E26D-49B2-9175-20638AB24362}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "integrationtest", "integrationtest", "{8D8C8FBC-BF5D-4061-AF61-7926EC8A6777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roomex.DistanceCalculator.API.IntegrationTest", "test\integrationtest\Roomex.DistanceCalculator.API.IntegrationTest\Roomex.DistanceCalculator.API.IntegrationTest.csproj", "{2F3DC1D0-6B8A-4A60-ACA0-C9FEB0622C8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,10 +34,16 @@ Global
 		{33E9F94B-E26D-49B2-9175-20638AB24362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33E9F94B-E26D-49B2-9175-20638AB24362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33E9F94B-E26D-49B2-9175-20638AB24362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3DC1D0-6B8A-4A60-ACA0-C9FEB0622C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3DC1D0-6B8A-4A60-ACA0-C9FEB0622C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3DC1D0-6B8A-4A60-ACA0-C9FEB0622C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3DC1D0-6B8A-4A60-ACA0-C9FEB0622C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E2CDB4E6-FF6E-4854-9080-CC2A9841960A} = {DA7D115E-C2D6-4638-8907-115B2B34D66B}
 		{42BA3DC7-242C-44E9-9260-5B364CCBD287} = {2D0BD918-FD31-41F9-B579-BC39074BA227}
 		{33E9F94B-E26D-49B2-9175-20638AB24362} = {42BA3DC7-242C-44E9-9260-5B364CCBD287}
+		{8D8C8FBC-BF5D-4061-AF61-7926EC8A6777} = {2D0BD918-FD31-41F9-B579-BC39074BA227}
+		{2F3DC1D0-6B8A-4A60-ACA0-C9FEB0622C8F} = {8D8C8FBC-BF5D-4061-AF61-7926EC8A6777}
 	EndGlobalSection
 EndGlobal
