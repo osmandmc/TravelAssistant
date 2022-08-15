@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5VDm/6fbe8BrWn7Em733dUTUw4Eqk+5yHP2z6UO/xgEfxMtzV5vNaYmiXcS5mluStCp7NMl0/KfC87ZnBuAdg==",
+  "dgSpecHash": "0dMH3xstJRiaCDc6KaNehS1lRgzZNopvZCGJpZFAJGI7dex7HcR2HxIanS/Qm8pNOejzPO5cCFbLfx6aapac+w==",
   "success": true,
-  "projectFilePath": "C:\\Repo\\personal\\Roomex\\test\\unitTest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj",
+  "projectFilePath": "C:\\Repo\\personal\\Roomex\\test\\unittest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\odemirci\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\odemirci\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

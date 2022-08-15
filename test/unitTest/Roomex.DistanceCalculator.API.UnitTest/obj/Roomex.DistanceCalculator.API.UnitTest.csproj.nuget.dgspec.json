@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\personal\\Roomex\\test\\unitTest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj": {}
+    "C:\\Repo\\personal\\Roomex\\test\\unittest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj": {}
   },
   "projects": {
     "C:\\Repo\\personal\\Roomex\\src\\Roomex.DistanceCalculator.API\\Roomex.DistanceCalculator.API.csproj": {
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Repo\\personal\\Roomex\\test\\unitTest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj": {
+    "C:\\Repo\\personal\\Roomex\\test\\unittest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\personal\\Roomex\\test\\unitTest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj",
+        "projectUniqueName": "C:\\Repo\\personal\\Roomex\\test\\unittest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj",
         "projectName": "Roomex.DistanceCalculator.API.UnitTest",
-        "projectPath": "C:\\Repo\\personal\\Roomex\\test\\unitTest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj",
+        "projectPath": "C:\\Repo\\personal\\Roomex\\test\\unittest\\Roomex.DistanceCalculator.API.UnitTest\\Roomex.DistanceCalculator.API.UnitTest.csproj",
         "packagesPath": "C:\\Users\\odemirci\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\personal\\Roomex\\test\\unitTest\\Roomex.DistanceCalculator.API.UnitTest\\obj\\",
+        "outputPath": "C:\\Repo\\personal\\Roomex\\test\\unittest\\Roomex.DistanceCalculator.API.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\odemirci\\AppData\\Roaming\\NuGet\\NuGet.Config",

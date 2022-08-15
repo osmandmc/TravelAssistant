@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "npzIdUctu6KiIdD3LYeulW3vpV/INde8Bg2pR2xjVINHZx5Tnm4jc+LwOuAzaxTFokELmhDsgKe/N5rGny5YQA==",
+  "dgSpecHash": "ztQTxuSDQW6DD3ShqVnIe5ZRbI5IUAYfTTJZTqq47mnFXeEI/z5784Id/v3FbkO3AAvhK5PAj1wUM7mqYU8H0Q==",
   "success": true,
   "projectFilePath": "C:\\Repo\\personal\\Roomex\\test\\integrationTest\\Roomex.DistanceCalculator.API.IntegrationTest\\Roomex.DistanceCalculator.API.IntegrationTest.csproj",
   "expectedPackageFiles": [
@@ -120,7 +120,7 @@
     "C:\\Users\\odemirci\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\odemirci\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\odemirci\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\odemirci\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\odemirci\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512",
     "C:\\Users\\odemirci\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\odemirci\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\odemirci\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

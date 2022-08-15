@@ -370,7 +370,6 @@ C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.Integ
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Text.Encoding.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
-C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Text.Json.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Threading.Channels.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\refs\System.Threading.dll
@@ -405,3 +404,4 @@ C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.Integ
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
 C:\Repo\personal\Roomex\test\integrationTest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Repo\personal\Roomex\test\integrationtest\Roomex.DistanceCalculator.API.IntegrationTest\bin\Debug\net6.0\System.Text.Json.dll

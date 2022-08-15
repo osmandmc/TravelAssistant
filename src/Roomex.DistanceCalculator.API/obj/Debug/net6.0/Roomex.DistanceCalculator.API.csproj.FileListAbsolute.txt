@@ -25,3 +25,4 @@ C:\Repo\personal\Roomex\src\Roomex.DistanceCalculator.API\obj\Debug\net6.0\refin
 C:\Repo\personal\Roomex\src\Roomex.DistanceCalculator.API\obj\Debug\net6.0\Roomex.DistanceCalculator.API.pdb
 C:\Repo\personal\Roomex\src\Roomex.DistanceCalculator.API\obj\Debug\net6.0\Roomex.DistanceCalculator.API.genruntimeconfig.cache
 C:\Repo\personal\Roomex\src\Roomex.DistanceCalculator.API\obj\Debug\net6.0\ref\Roomex.DistanceCalculator.API.dll
+C:\Repo\personal\Roomex\src\Roomex.DistanceCalculator.API\bin\Debug\net6.0\System.Text.Json.dll
